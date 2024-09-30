@@ -1,0 +1,19 @@
+/* css-demo */
+/* color scheme
+ main color -> hexidecimal
+*/
+/* this is how to comment */
+
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+
+body{
+    background-color: blueviolet;
+}
